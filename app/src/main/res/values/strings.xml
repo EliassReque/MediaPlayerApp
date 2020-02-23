@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="inicio">Inicio</string>
+    <string name="home" />
+    <string name="Home">Home</string>
+    <string name="Search">Search</string>
+    <string name="Library">Library</string>
+
+</resources>
