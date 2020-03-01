@@ -7,9 +7,9 @@
         android:icon="@drawable/ic_home"
         android:title="@string/Home"/>
     <item
-        android:id="@+id/searchItem"
-        android:icon="@drawable/ic_search"
-        android:title="@string/Search"/>
+        android:id="@+id/videoItem"
+        android:icon="@drawable/ic_video"
+        android:title="@string/Video"/>
     <item
         android:id="@+id/playlistItem"
         android:icon="@drawable/ic_queue"
