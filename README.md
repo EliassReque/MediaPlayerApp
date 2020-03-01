@@ -1,3 +1,3 @@
 # MediaPlayerApp
 
-![](Imagenes/Captura.jpeg)
+![](Imagenes/Captura.PNG)
